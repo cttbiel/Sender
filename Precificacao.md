@@ -2,7 +2,7 @@
 
 **Versão**: 1.0  
 **Emitente**: Commit Jr. — Empresa Júnior do CEFET-MG  
-**Contato**: gabrielcarvalho@commitjr.com.br | (31) 98976-5778
+**Contato**: gabrielcarvalho@commitjr.com | (31) 98976-5778
 
 ---
 
@@ -107,4 +107,5 @@ Observações:
 
 Se desejar, adaptamos esta proposta ao seu contexto (volume, dados, compliance).  
 Ficamos à disposição para uma call rápida de 20 minutos para alinhamento.
+
 
