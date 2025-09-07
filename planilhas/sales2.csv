@@ -1,0 +1,51 @@
+Data,Produto,Valor,Canal_Venda,Cliente_Cadastrado,Satisfacao_Cliente,Custo_Produto
+2025-03-15,Tablet Lite,1200.00,Online,Sim,4,800.00
+2025-06-22,Smart TV 55",3200.00,Online,Não,5,2400.00
+2025-02-10,Fone de Ouvido com Cancelamento de Ruído,600.00,Online,Sim,4,350.00
+2025-05-05,Calça Jeans,199.90,Online,Sim,3,90.00
+2025-08-18,Tênis Skate,280.00,Online,Não,4,150.00
+2025-01-25,Air Fryer 5L,450.00,Online,Sim,5,250.00
+2025-04-30,Livro "Data Science para Iniciantes",89.90,Online,Não,4,40.00
+2025-07-12,Mochila de Viagem,220.00,Online,Sim,4,120.00
+2025-03-08,Smartwatch Fitness,800.00,Online,Sim,3,500.00
+2025-06-15,Jaqueta de Couro,550.00,Loja Física,Não,5,300.00
+2025-09-01,Tablet Lite,1180.00,Loja Física,Sim,4,790.00
+2025-02-28,Smart TV 55",3150.00,Online,Não,5,2350.00
+2025-05-20,Fone de Ouvido com Cancelamento de Ruído,590.00,Loja Física,Sim,4,340.00
+2025-08-05,Calça Jeans,189.90,Online,Não,3,85.00
+2025-01-15,Tênis Skate,270.00,Loja Física,Sim,4,140.00
+2025-04-10,Air Fryer 5L,440.00,Online,Sim,5,240.00
+2025-07-25,Livro "Data Science para Iniciantes",84.50,Loja Física,Não,4,38.00
+2025-03-01,Mochila de Viagem,210.00,Online,Sim,4,110.00
+2025-06-08,Smartwatch Fitness,780.00,Loja Física,Não,3,480.00
+2025-09-12,Jaqueta de Couro,530.00,Online,Sim,5,290.00
+2025-02-05,Tablet Lite,1220.00,Online,Sim,4,810.00
+2025-05-18,Smart TV 55",3250.00,Loja Física,Não,5,2450.00
+2025-08-22,Fone de Ouvido com Cancelamento de Ruído,610.00,Online,Sim,4,360.00
+2025-01-08,Calça Jeans,209.90,Loja Física,Não,3,95.00
+2025-04-15,Tênis Skate,290.00,Online,Sim,4,160.00
+2025-07-30,Air Fryer 5L,460.00,Loja Física,Sim,5,260.00
+2025-03-12,Livro "Data Science para Iniciantes",94.90,Online,Não,4,45.00
+2025-06-25,Mochila de Viagem,230.00,Loja Física,Sim,4,125.00
+2025-09-05,Smartwatch Fitness,820.00,Online,Não,3,520.00
+2025-02-20,Jaqueta de Couro,570.00,Loja Física,Sim,5,320.00
+2025-05-10,Tablet Lite,1190.00,Loja Física,Sim,4,795.00
+2025-08-15,Smart TV 55",3180.00,Online,Não,5,2380.00
+2025-01-30,Fone de Ouvido com Cancelamento de Ruído,580.00,Loja Física,Sim,4,330.00
+2025-04-25,Calça Jeans,195.90,Online,Não,3,88.00
+2025-07-18,Tênis Skate,275.00,Loja Física,Sim,4,145.00
+2025-03-05,Air Fryer 5L,430.00,Online,Sim,5,230.00
+2025-06-10,Livro "Data Science para Iniciantes",87.00,Loja Física,Não,4,39.00
+2025-09-22,Mochila de Viagem,215.00,Online,Sim,4,115.00
+2025-02-15,Smartwatch Fitness,790.00,Loja Física,Não,3,490.00
+2025-05-25,Jaqueta de Couro,540.00,Online,Sim,5,295.00
+2025-08-10,Tablet Lite,1210.00,Online,Sim,4,805.00
+2025-01-20,Smart TV 55",3220.00,Loja Física,Não,5,2420.00
+2025-04-18,Fone de Ouvido com Cancelamento de Ruído,605.00,Online,Sim,4,355.00
+2025-07-05,Calça Jeans,205.90,Loja Física,Não,3,92.00
+2025-03-20,Tênis Skate,285.00,Online,Sim,4,155.00
+2025-06-30,Air Fryer 5L,455.00,Loja Física,Sim,5,255.00
+2025-09-15,Livro "Data Science para Iniciantes",92.50,Online,Não,4,43.00
+2025-02-28,Mochila de Viagem,225.00,Loja Física,Sim,4,122.00
+2025-05-15,Smartwatch Fitness,810.00,Online,Não,3,510.00
+2025-08-25,Jaqueta de Couro,560.00,Online,Sim,5,310.00
