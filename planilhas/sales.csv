@@ -1,0 +1,43 @@
+Data,Produto,Valor,Canal_Venda,Cliente_Cadastrado,Satisfacao_Cliente,Custo_Produto
+2025-04-12,Smartphone X,2500.00,Loja Física,Sim,4,2000.00
+2025-07-21,Notebook Pro,5500.00,Loja Física,Sim,3,5000.00
+2025-01-30,Fone de Ouvido Bluetooth,350.00,Loja Física,Não,5,200.00
+2025-06-05,Camiseta Básica,79.90,Loja Física,Sim,3,35.00
+2025-03-18,Tênis de Corrida,450.00,Online,Sim,5,280.00
+2025-08-02,Cafeteira Expressa,299.00,Loja Física,Não,4,180.00
+2025-02-14,Livro "A Arte da Análise",45.50,Online,Sim,5,25.00
+2025-05-29,Mochila Executiva,180.00,Loja Física,Não,4,90.00
+2025-07-01,Smartwatch 2,1200.00,Online,Sim,4,850.00
+2025-04-25,Jaqueta Corta-Vento,250.00,Loja Física,Sim,5,140.00
+2025-08-11,Smartphone X,2550.00,Loja Física,Não,3,1850.00
+2025-03-03,Notebook Pro,5450.00,Online,Sim,4,4150.00
+2025-06-20,Fone de Ouvido Bluetooth,340.00,Loja Física,Sim,5,195.00
+2025-01-15,Camiseta Básica,85.00,Online,Não,4,40.00
+2025-07-10,Tênis de Corrida,460.00,Loja Física,Sim,5,290.00
+2025-02-28,Cafeteira Expressa,310.00,Online,Sim,4,190.00
+2025-05-09,Livro "A Arte da Análise",49.90,Loja Física,Não,5,28.00
+2025-08-22,Mochila Executiva,190.00,Online,Sim,2,100.00
+2025-04-01,Smartwatch 2,1250.00,Loja Física,Não,3,880.00
+2025-06-15,Jaqueta Corta-Vento,260.00,Loja Física,Sim,5,150.00
+2025-02-05,Smartphone X,2480.00,Loja Física,Sim,4,1780.00
+2025-05-19,Notebook Pro,5550.00,Loja Física,Não,5,4250.00
+2025-08-01,Fone de Ouvido Bluetooth,360.00,Online,Sim,4,210.00
+2025-03-27,Camiseta Básica,75.00,Loja Física,Não,3,32.00
+2025-07-18,Tênis de Corrida,440.00,Online,Sim,5,270.00
+2025-01-10,Cafeteira Expressa,290.00,Loja Física,Sim,4,175.00
+2025-06-02,Livro "A Arte da Análise",42.00,Online,Não,5,22.00
+2025-04-14,Mochila Executiva,170.00,Loja Física,Sim,4,85.00
+2025-08-15,Smartwatch 2,1180.00,Online,Não,2,830.00
+2025-02-20,Jaqueta Corta-Vento,240.00,Loja Física,Sim,0,130.00
+2025-05-01,Smartphone X,2520.00,Loja Física,Sim,5,1820.00
+2025-01-25,Notebook Pro,5400.00,Online,Não,4,4100.00
+2025-07-05,Fone de Ouvido Bluetooth,345.00,Loja Física,Sim,2,205.00
+2025-03-11,Camiseta Básica,82.00,Online,Sim,4,38.00
+2025-08-08,Tênis de Corrida,455.00,Loja Física,Não,5,285.00
+2025-04-22,Cafeteira Expressa,305.00,Online,Sim,4,185.00
+2025-06-28,Livro "A Arte da Análise",47.00,Loja Física,Não,3,26.00
+2025-02-09,Mochila Executiva,185.00,Online,Sim,5,95.00
+2025-05-15,Smartwatch 2,1220.00,Loja Física,Sim,5,860.00
+2025-07-29,Jaqueta Corta-Vento,255.00,Online,Não,5,145.00
+2025-08-24,Jaqueta Corta-Vento,255.00,Online,Sim,2,145.00
+2025-08-21,Jaqueta Corta-Vento,255.00,Online,Sim,1,105.00
