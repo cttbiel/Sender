@@ -363,31 +363,13 @@ df['Trimestre'] = df['Data'].dt.quarter
 comparativo = df.groupby('Trimestre')['Valor'].sum()
 ```
 
-## 🤝 Contribuição
-
-Para contribuir com melhorias:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFuncionalidade`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/NovaFuncionalidade`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 📞 Suporte
 
-Para suporte técnico ou dúvidas:
-
-- Abra uma issue no repositório
-- Consulte a seção de troubleshooting
-- Verifique os logs gerados pelo script
+Para suporte técnico ou dúvidas, entre em ctt!
 
 ---
 
 **Desenvolvido com ❤️ para a comunidade de análise de dados**
 
-_Última atualização: Janeiro 2024_
-
+_Última atualização: Outubro 2025_
